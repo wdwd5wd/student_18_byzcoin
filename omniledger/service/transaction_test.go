@@ -3,7 +3,7 @@ package service
 import (
 	"testing"
 
-	"github.com/dedis/student_18_omniledger/omniledger/darc"
+	"github.com/dedis/student_18_byzcoin/omniledger/darc"
 	"github.com/stretchr/testify/require"
 )
 

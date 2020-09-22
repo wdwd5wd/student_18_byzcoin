@@ -8,7 +8,7 @@ package service
 import (
 	"errors"
 
-	"github.com/dedis/student_18_omniledger/omniledger/darc"
+	"github.com/dedis/student_18_byzcoin/omniledger/darc"
 
 	"gopkg.in/dedis/cothority.v2"
 	"gopkg.in/dedis/cothority.v2/skipchain"

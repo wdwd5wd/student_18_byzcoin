@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	bolt "github.com/coreos/bbolt"
-	"github.com/dedis/student_18_omniledger/omniledger/collection"
-	"github.com/dedis/student_18_omniledger/omniledger/darc"
+	"github.com/dedis/student_18_byzcoin/omniledger/collection"
+	"github.com/dedis/student_18_byzcoin/omniledger/darc"
 	"gopkg.in/dedis/cothority.v2/skipchain"
 	"gopkg.in/dedis/onet.v2/network"
 )

@@ -11,16 +11,18 @@ import (
 
 	"gopkg.in/dedis/cothority.v2"
 	"gopkg.in/dedis/cothority.v2/messaging"
+
 	"gopkg.in/dedis/cothority.v2/skipchain"
+	// "github.com/dedis/cothority/skipchain"
 	"gopkg.in/dedis/kyber.v2/util/random"
 	"gopkg.in/dedis/onet.v2"
 	"gopkg.in/dedis/onet.v2/log"
 	"gopkg.in/dedis/onet.v2/network"
-	"gopkg.in/satori/go.uuid.v1"
 
 	"github.com/dedis/protobuf"
-	"github.com/dedis/student_18_omniledger/omniledger/collection"
-	"github.com/dedis/student_18_omniledger/omniledger/darc"
+	"github.com/dedis/student_18_byzcoin/omniledger/collection"
+	"github.com/dedis/student_18_byzcoin/omniledger/darc"
+	uuid "github.com/satori/go.uuid"
 )
 
 const darcIDLen int = 32

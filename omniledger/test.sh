@@ -9,7 +9,7 @@ DBG_SRV=2
 
 main(){
     startTest
-    buildConode github.com/dedis/student_18_omniledger/omniledger/service
+    buildConode github.com/dedis/student_18_byzcoin/omniledger/service
     test CreateStoreRead
     stopTest
 }

@@ -6,8 +6,8 @@ import (
 	"errors"
 	"os"
 
-	"github.com/dedis/student_18_omniledger/omniledger/darc"
-	"github.com/dedis/student_18_omniledger/omniledger/service"
+	"github.com/dedis/student_18_byzcoin/omniledger/darc"
+	"github.com/dedis/student_18_byzcoin/omniledger/service"
 
 	"gopkg.in/dedis/cothority.v2"
 	"gopkg.in/dedis/kyber.v2/util/key"

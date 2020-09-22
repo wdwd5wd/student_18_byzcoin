@@ -48,7 +48,7 @@ import (
 	"strings"
 
 	"github.com/dedis/protobuf"
-	"github.com/dedis/student_18_omniledger/omniledger/darc/expression"
+	"github.com/dedis/student_18_byzcoin/omniledger/darc/expression"
 	"gopkg.in/dedis/cothority.v2"
 	"gopkg.in/dedis/kyber.v2"
 	"gopkg.in/dedis/kyber.v2/sign/schnorr"
